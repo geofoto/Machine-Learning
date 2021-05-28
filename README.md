@@ -1,3 +1,9 @@
 # Machine Learning
 
-Treating the problem as a classification problem, using a decision tree to learn a classification model that predicts the number of persons that used a bicycle based on the available features and use the learned model to identify the two most prominent features.
+This repository contains some of the most typical tasks in Machine Learning, such as Classification, Linear Regression and Logistic Regression, along with Exploratory Data Analysis and Algorithm comparison using some of the most popular datasets like "Bike Sharing", "Iris" and "Diabetes" dataset.
+
+### Regression and Classification
+
+### Exploratory Data Analysis and Algorithm comparison well known algorithms 
+
+### Computer vision task , digit recognizer applied MNIST database.
