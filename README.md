@@ -1,6 +1,6 @@
 # Machine Learning
 
-This repository contains some of the most typical tasks in Machine Learning, **Classification** and **Regression**, along with **Exploratory Data Analysis**, **Algorithm comparison** and **Computer vision**, using some of the most popular datasets like "Bike Sharing", "Breast cancer", "Diabetes" and "MNIST" dataset.
+This repository contains some of the most typical tasks in Machine Learning, **Classification** and **Regression**, along with **Exploratory Data Analysis**, **Algorithm comparison** and **Computer vision**, using some of the most popular datasets like "Bike Sharing", "Breast cancer", "Diabetes" and the "MNIST" dataset.
 
 ### Regression and Classification 
 
