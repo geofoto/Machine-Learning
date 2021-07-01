@@ -8,7 +8,7 @@ Training different models using **Decision Trees**, **Linear regression** and **
 
 ### Exploratory Data Analysis and Algorithm comparison
 
- In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzing the datasets, by investigating the dimensions of the data, the data types and their statistical properties. Moreover, after choosing a set of classification and regression algorithms to compare in terms oh their accuracy, we train and evaluate the selected models. For both these tasks the "Breast cancer" and "Diabetes" dataset have been used.
+ In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzing the datasets, by investigating the dimensions of the data, the data types and their statistical properties. Moreover, after choosing a set of classification and regression algorithms to compare in terms of their accuracy, we train and evaluate the selected models. For both these tasks the "Breast cancer" and "Diabetes" dataset have been used.
 
 ### Computer vision with Digit recognizer
 
